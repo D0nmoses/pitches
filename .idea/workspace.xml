@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcbe277f-17fb-4cd6-954c-2bb46b10a5a5" name="Default Changelist" comment="" />
+    <list default="true" id="bcbe277f-17fb-4cd6-954c-2bb46b10a5a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/auth/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,6 +46,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="205" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1581661184758">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="205" y="27" width="1012" height="636" key="SettingsEditor/67.27.1299.636@67.27.1299.636" timestamp="1581661184758" />
     <state x="372" y="171" key="com.intellij.ide.util.TipDialog" timestamp="1581660865710">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
