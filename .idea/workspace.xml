@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcbe277f-17fb-4cd6-954c-2bb46b10a5a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/main/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/auth/auth_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/auth/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
